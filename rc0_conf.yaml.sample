@@ -1,0 +1,6 @@
+---
+default:
+  BEARER: BEARER-Token from Panel
+example.com:
+  BEARER: BEARER-Token from Panel
+
